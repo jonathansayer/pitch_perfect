@@ -28,7 +28,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tap to Record" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FFP-6T-ZqI">
                                 <rect key="frame" x="247" y="377" width="107" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Y9-Z5-bW0">
@@ -159,9 +159,9 @@
                     <connections>
                         <outlet property="chipmunkButton" destination="1PO-Pk-tAy" id="7HB-2G-AKO"/>
                         <outlet property="darthVaderButton" destination="BA3-eh-CyY" id="Oah-ZJ-M5p"/>
-                        <outlet property="echoButton" destination="MX9-EE-a3X" id="j6n-LS-DIs"/>
-                        <outlet property="rabbitButton" destination="Q78-IM-q6G" id="R1V-0i-MxH"/>
-                        <outlet property="reverblButton" destination="ZkE-zP-iew" id="kDh-de-cWt"/>
+                        <outlet property="echoButton" destination="MX9-EE-a3X" id="849-Eq-Nqu"/>
+                        <outlet property="rabbitButton" destination="Q78-IM-q6G" id="Hv8-Oh-5ge"/>
+                        <outlet property="reverbButton" destination="ZkE-zP-iew" id="YFr-da-mf5"/>
                         <outlet property="snailButton" destination="mSw-3N-GYJ" id="Cu7-An-SJx"/>
                         <outlet property="stopButton" destination="IJS-wV-mGo" id="AkD-qo-f2v"/>
                     </connections>
